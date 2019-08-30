@@ -1,6 +1,7 @@
 # adc-test
 
 Steps:
+
 	1) run ".x init.cpp" in the ROOT shell in order to load the relevant files;
 	
 	2) use the testcsv() function in readcsv.C to convert csv to txt; 
