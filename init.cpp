@@ -11,9 +11,6 @@ void init(){
 	gROOT->ProcessLine(".L LetturaFile.cpp");
 	gROOT->ProcessLine(".L GetHeader.cpp");
 	gROOT->ProcessLine(".L txtToROOT.cpp");
-	gROOT->ProcessLine(".L txtToHistROOT.cpp");
-	gROOT->ProcessLine(".L CoprimeFinder.cpp");
-	gROOT->ProcessLine(".L scriviTxt.cpp");
 	gROOT->ProcessLine(".L readcsv.C");
 	gROOT->ProcessLine(".L calibrazione.cpp");
 
